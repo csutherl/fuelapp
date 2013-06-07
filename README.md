@@ -1,3 +1,6 @@
+fuelapp
+==================
+
 Flask on OpenShift
 ==================
 
@@ -37,4 +40,3 @@ app.config['PROPAGATE_EXCEPTIONS'] = True
 To read more about logging in Flask please see this email
 
 http://flask.pocoo.org/mailinglist/archive/2012/1/27/catching-exceptions-from-flask/
-
